@@ -1,0 +1,33 @@
+/* Class Selectors */
+.Broccoli{
+    background-color: lightgreen;
+}
+
+.Bacon{
+    background-color:red;
+}
+
+/* ID Selector */
+#Bacon{
+    color:red;
+}
+
+#Broccoli{
+    color:lightgreen;
+}
+
+.applesareapples{
+    background-color:blue;
+    color: greenyellow;
+ }
+
+ .circular{
+    height:100px;
+    width:100px;
+    border-radius:20px;
+ }
+
+ .boundary{
+    width:700px;
+    border-radius:5px;
+ }
