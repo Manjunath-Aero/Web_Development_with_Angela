@@ -17,17 +17,20 @@
 }
 
 .applesareapples{
-    background-color:blue;
+    
     color: greenyellow;
  }
 
  .circular{
+    background-color:blue;
     height:100px;
     width:100px;
     border-radius:20px;
  }
 
  .boundary{
+    background-color:blue;
     width:700px;
     border-radius:5px;
+    color: greenyellow;
  }
