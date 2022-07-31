@@ -1,0 +1,60 @@
+.box{
+    height:100px;
+    width:100px;
+    margin:0px;
+}
+
+body{
+    margin: 4px;
+}
+
+.top-container{
+    height:104px;
+}
+
+ .first{
+    background-color:red;
+    display: inline-block;
+    border-radius:12px;
+    margin-left:4px;
+}
+
+ .firstsecond{
+    background-color:green;
+    display: inline-block;
+    position: relative;
+    left:96px;
+    border-radius:12px;
+    margin-top:4px;
+ }
+
+ .second{
+    background-color:blue;
+    position: relative;
+    left: 100px;
+    border-radius:12px;
+    margin-left:4px;
+}
+
+ .third{
+    background-color:green;
+    display: inline-block;
+    border-radius:12px;
+    margin-left:4px;
+ }
+
+  .thirdsecond{
+    background-color:red;
+    display: inline-block;
+    position: relative;
+    left:96px;
+    border-radius:12px;
+  }
+
+  .container{
+    display:inline-block;
+    background-color:lightgreen;
+    width:308px;
+    height:308px;
+    border-radius:12px;
+  }

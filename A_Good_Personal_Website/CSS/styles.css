@@ -23,7 +23,6 @@ h1{
     background-color: black;
     height: 200px;
     width: 200px;
-    border:none;
     border-radius:none;
     border: 10px solid white;
 }
@@ -33,7 +32,6 @@ h1{
     height: 200px;
     width: 200px;
     margin-left:220px;
-    border:none;
     border-radius:none;
     border: 20px solid;
 }
@@ -43,7 +41,6 @@ h1{
     height: 200px;
     width: 200px;
     margin-left:460px;
-    border:none;
     border-radius:none;
     border: 10px solid;
 }
