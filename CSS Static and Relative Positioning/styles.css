@@ -51,7 +51,17 @@ body{
     border-radius:12px;
   }
 
-  .container{
+  .container1{
+    display:inline-block;
+    background-color:lightgreen;
+    width:308px;
+    height:308px;
+    border-radius:12px;
+  }
+
+  .container2{
+    position:relative;
+    left:500px;
     display:inline-block;
     background-color:lightgreen;
     width:308px;
